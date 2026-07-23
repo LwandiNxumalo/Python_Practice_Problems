@@ -1,2 +1,8 @@
-# Python_Practice_Problems
-Practical Python exercises, solutions, and code snippets created to master Python fundamentals alongside Git and GitHub workflows.
+Python Practice Problems
+
+A collection of practical Python exercises and solutions, built to practice Python concepts and master Git/GitHub workflows.
+
+## ?? Author
+
+* **Developer:** Lwandi Nxumalo
+* **GitHub:** [@LwandiNxumalo](https://github.com/LwandiNxumalo)
