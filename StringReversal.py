@@ -1,0 +1,21 @@
+"""
+Exercise 8. String Reversal
+
+Practice Problem: Write a program that takes a string and reverses it (e.g., “Python” becomes “nohtyP”).
+
+Exercise Purpose: This exercise demonstrates “Sequence Slicing.” Strings in Python are sequences, and mastering the slicing syntax is a powerful shortcut for data manipulation that would take 5-10 lines of code in other languages.
+
+Given Input: text = "Python"
+
+Expected Output: Reversed: nohtyP
+"""
+
+text = "Python"
+reversed_text = text[:: -1]
+print(reversed_text)
+
+user_word = input("Enter the word: ")
+reversed_word = user_word[::-1]
+
+print(f"Original word: {user_word}")
+print(f"Reversed word: {reversed_word}")
